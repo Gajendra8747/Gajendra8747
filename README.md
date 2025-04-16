@@ -2,7 +2,7 @@
 
 ## MERN Stack Developer | JavaScript Enthusiast
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://in.linkedin.com/in/gajendra-gour-107339287)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/https:/x.com/GajendraGo52258?style=social)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://in.linkedin.com/in/gajendra-gour-107339287)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://portfolio-x5iq.vercel.app/)
 
