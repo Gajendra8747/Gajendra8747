@@ -30,6 +30,8 @@ Passionate MERN stack developer with experience building robust, scalable web ap
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📊 Most Used Languages
 
@@ -37,9 +39,9 @@ Passionate MERN stack developer with experience building robust, scalable web ap
 
 ### 📫 How to reach me
 
-- Email: your.email@example.com
+- Email: gajendragour8747@gmail.com
 - LinkedIn: (https://in.linkedin.com/in/gajendra-gour-107339287)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Twitter: (https://x.com/GajendraGo52258)
 
 ### ⚡ Fun fact
 
