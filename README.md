@@ -1,8 +1,7 @@
 # Hi there, I'm Gajendra Gour 👋
 
 ## MERN Stack Developer | JavaScript Enthusiast
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/https:/x.com/GajendraGo52258?style=social)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https:/x.com/GajendraGo52258)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://in.linkedin.com/in/gajendra-gour-107339287)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://portfolio-x5iq.vercel.app/)
 
