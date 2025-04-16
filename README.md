@@ -3,8 +3,8 @@
 ## MERN Stack Developer | JavaScript Enthusiast
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile](https://in.linkedin.com/in/gajendra-gour-107339287))
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com](https://portfolio-x5iq.vercel.app/))
 
 Passionate MERN stack developer with experience building robust, scalable web applications. I love turning ideas into reality with clean, efficient code and intuitive user interfaces.
 
@@ -39,7 +39,7 @@ Passionate MERN stack developer with experience building robust, scalable web ap
 ### 📫 How to reach me
 
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://in.linkedin.com/in/gajendra-gour-107339287)
+- LinkedIn: (https://in.linkedin.com/in/gajendra-gour-107339287)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ### ⚡ Fun fact
