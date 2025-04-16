@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://in.linkedin.com/in/gajendra-gour-107339287)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://in.linkedin.com/in/gajendra-gour-107339287)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://portfolio-x5iq.vercel.app/)
 
 Passionate MERN stack developer with experience building robust, scalable web applications. I love turning ideas into reality with clean, efficient code and intuitive user interfaces.
 
