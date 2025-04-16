@@ -34,12 +34,12 @@ Passionate MERN stack developer with experience building robust, scalable web ap
 
 ### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gajendra8747&layout=compact&theme=radical&hide=html,css)
 
 ### 📫 How to reach me
 
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn Profile](https://in.linkedin.com/in/gajendra-gour-107339287)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ### ⚡ Fun fact
